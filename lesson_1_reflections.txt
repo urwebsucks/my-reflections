@@ -1,0 +1,13 @@
+Q:
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+A: 
+Viewing the output of diff between files, helped quickly identify the changes and make the necessary changes
+
+Q:
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+A: It will make it easier to identify changes that break a program. It will also allow a programmer to efficient revert changes in the future.
+
+Q:
+
